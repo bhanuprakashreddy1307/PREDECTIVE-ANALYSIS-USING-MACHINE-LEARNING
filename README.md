@@ -239,3 +239,8 @@ The choice of the right regression model depends on the problem complexity, data
 By leveraging predictive analytics, organizations can optimize operations, reduce risks, and improve efficiency, ultimately gaining a competitive advantage in their respective industries.
 
 *OUTOUT* :
+![Image](https://github.com/user-attachments/assets/41e82566-a947-4145-81d8-a350348f39ef)
+
+![Image](https://github.com/user-attachments/assets/9e486dbe-63b5-4818-8d1f-f7b9ebf94a0f)
+
+![Image](https://github.com/user-attachments/assets/235d1817-6316-4cac-8056-5f8766207544)
